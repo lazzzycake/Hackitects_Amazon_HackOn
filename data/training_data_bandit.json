@@ -1,0 +1,4250 @@
+[
+  {
+    "user_id": "synthetic_1001",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Inside Out 2",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1002",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Inside Out 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1003",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Inside Out 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1004",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Inside Out 2",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1005",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Inside Out 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1006",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Furiosa: A Mad Max Saga",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1007",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Furiosa: A Mad Max Saga",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1008",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Furiosa: A Mad Max Saga",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1009",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Furiosa: A Mad Max Saga",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1010",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Deadpool & Wolverine",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1011",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Deadpool & Wolverine",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1012",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Ghostbusters: Frozen Empire",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1013",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Ghostbusters: Frozen Empire",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1014",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Ghostbusters: Frozen Empire",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1015",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Ghostbusters: Frozen Empire",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1016",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Kung Fu Panda 4",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1017",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Kung Fu Panda 4",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1018",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Kung Fu Panda 4",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1019",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Kung Fu Panda 4",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1020",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Godzilla x Kong: The New Empire",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1021",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Godzilla x Kong: The New Empire",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1022",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Godzilla x Kong: The New Empire",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1023",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Kingdom of the Planet of the Apes",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1024",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Kingdom of the Planet of the Apes",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1025",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Fall Guy",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1026",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Fall Guy",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1027",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Dune: Part Two",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1028",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Dune: Part Two",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1029",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Dune: Part Two",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1030",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Dune: Part Two",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1031",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Dune: Part Two",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1032",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "A Quiet Place: Day One",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1033",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "A Quiet Place: Day One",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1034",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Ne Zha 2",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1035",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Ne Zha 2",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1036",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Ne Zha 2",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1037",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Ne Zha 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1038",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Ne Zha 2",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1039",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "A Minecraft Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1040",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "A Minecraft Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1041",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Lilo & Stitch (2025)",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1042",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Lilo & Stitch (2025)",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1043",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1044",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1045",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1046",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1047",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1048",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Captain America: Brave New World",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1049",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Captain America: Brave New World",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1050",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Captain America: Brave New World",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1051",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Captain America: Brave New World",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1052",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Captain America: Brave New World",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1053",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Thunderbolts",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1054",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Thunderbolts",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1055",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Thunderbolts",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1056",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Thunderbolts",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1057",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Thunderbolts",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1058",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Final Destination: Bloodlines",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1059",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Final Destination: Bloodlines",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1060",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Dog Man",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1061",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Dog Man",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1062",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Sinners",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1063",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Sinners",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1064",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Sinners",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1065",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Sinners",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1066",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Sinners",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1067",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "How to Train Your Dragon (2025)",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1068",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "How to Train Your Dragon (2025)",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1069",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "How to Train Your Dragon (2025)",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1071",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mufasa: The Lion King",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1072",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Mufasa: The Lion King",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1073",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Jurassic World: Rebirth",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1074",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Jurassic World: Rebirth",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1075",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Jurassic World: Rebirth",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1076",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Jurassic World: Rebirth",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1077",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Avatar: Fire and Ash",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1078",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Avatar: Fire and Ash",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1079",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Avatar: Fire and Ash",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1080",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Avatar: Fire and Ash",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1081",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Avatar: Fire and Ash",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1082",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Fantastic Four: First Steps",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1083",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Fantastic Four: First Steps",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1084",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Wicked: For Good",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1085",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Wicked: For Good",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1086",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Wicked: For Good",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1087",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Wicked: For Good",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1088",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Deep Cover",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1089",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Deep Cover",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1090",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Deep Cover",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1091",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Deep Cover",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1092",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Deep Cover",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1093",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "F1 The Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1094",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "F1 The Movie",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1095",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "28 Years Later",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1096",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "28 Years Later",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1097",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Materialists",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1098",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Materialists",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1099",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Ballerina",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1100",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Ballerina",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1101",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Ballerina",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1102",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Legend of Ochi",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1103",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Legend of Ochi",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1104",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Legend of Ochi",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1105",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Legend of Ochi",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1106",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Legend of Ochi",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1107",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Accountant 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1108",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Accountant 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1109",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Accountant 2",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1110",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Accountant 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1111",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Mickey\u00c2\u00a017",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1112",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Mickey\u00c2\u00a017",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1113",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Mickey\u00c2\u00a017",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1114",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Mickey\u00c2\u00a017",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1115",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Mickey\u00c2\u00a017",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1116",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "One Of Them Days",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1117",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "One Of Them Days",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1118",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "One Of Them Days",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1119",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Predator: Badlands",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1120",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Predator: Badlands",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1121",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Superman Legacy",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1122",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Superman Legacy",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1123",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Running Man",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1124",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Running Man",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1125",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Running Man",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1126",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Running Man",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1127",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Sly Lives!",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1128",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Sly Lives!",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1129",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Golden",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1130",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Golden",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1131",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Golden",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1132",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Golden",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1133",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Golden",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1134",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Opus",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1135",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Opus",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1136",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Opus",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1137",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Opus",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1138",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Opus",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1139",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Sentimental Value",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1141",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "If I Had Legs I'd Kick You",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1142",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "If I Had Legs I'd Kick You",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1143",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "If I Had Legs I'd Kick You",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1144",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "If I Had Legs I'd Kick You",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1145",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "If I Had Legs I'd Kick You",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1146",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Smashing Machine",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1147",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Smashing Machine",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1148",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Smashing Machine",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1149",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Smashing Machine",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1150",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Smashing Machine",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1151",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Squid Game: Unleashed",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1152",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Squid Game: Unleashed",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1153",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Squid Game: Unleashed",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1154",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Squid Game: Unleashed",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1155",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Spider-Man: Beyond the Spider-Verse",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1156",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Spider-Man: Beyond the Spider-Verse",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1157",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Madame Web",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1158",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Madame Web",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1159",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1160",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1161",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1162",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1163",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1164",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Twisters",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1165",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Twisters",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1166",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Electric State",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1167",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Electric State",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1168",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Electric State",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1169",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Electric State",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1170",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Watchers",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1171",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Watchers",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1172",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Watchers",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1173",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Watchers",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1174",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Gladiator II",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1175",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Gladiator II",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1176",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Gladiator II",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1177",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Moana 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1178",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Moana 2",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1179",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Borderlands",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1180",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Borderlands",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1181",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Borderlands",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1182",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Elio",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1183",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Elio",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1184",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Nosferatu",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1185",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Nosferatu",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1186",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Nosferatu",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1187",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Nosferatu",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1188",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Garfield Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1189",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Garfield Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1190",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Garfield Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1191",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Speak No Evil",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1192",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Speak No Evil",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1193",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Trap",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1194",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Trap",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1195",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Trap",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1196",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mickey Mouse: The Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1197",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Mickey Mouse: The Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1198",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mickey Mouse: The Movie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1199",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Red One",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1200",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Red One",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1201",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Red One",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1202",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Strangers: Chapter 1",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1203",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Strangers: Chapter 1",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1204",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Strangers: Chapter 1",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1205",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Strangers: Chapter 1",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1206",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Strangers: Chapter 1",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1207",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Speak",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1208",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Speak",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1209",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Speak",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1211",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Good Fortune",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1212",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Good Fortune",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1213",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Good Fortune",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1214",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Good Fortune",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1215",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Ministry of Ungentlemanly Warfare",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1216",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Ministry of Ungentlemanly Warfare",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1217",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Ministry of Ungentlemanly Warfare",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1218",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Despicable Me 4",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1219",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Despicable Me 4",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1220",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Kraven the Hunter",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1221",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Kraven the Hunter",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1222",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Kraven the Hunter",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1223",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Kraven the Hunter",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1224",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Baghead",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1225",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Baghead",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1226",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Baghead",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1227",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Harold and the Purple Crayon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1228",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Harold and the Purple Crayon",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1229",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Harold and the Purple Crayon",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1230",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Harold and the Purple Crayon",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1231",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Terrifier 3",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1232",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Terrifier 3",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1233",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Terrifier 3",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1234",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Wild Robot",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1235",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Wild Robot",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1236",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Wild Robot",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1237",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Firebrand",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1238",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Firebrand",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1239",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Thelma",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1240",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Thelma",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1241",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Thelma",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1242",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Thelma",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1243",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Thelma",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1244",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Robot Dreams",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1245",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Robot Dreams",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1246",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Robot Dreams",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1247",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Robot Dreams",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1248",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Robot Dreams",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1249",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Past Lives",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1250",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Past Lives",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1251",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Tiger\u00e2\u20ac\u2122s Apprentice",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1252",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Tiger\u00e2\u20ac\u2122s Apprentice",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1253",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "The Beekeeper",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1254",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Beekeeper",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1255",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Beekeeper",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1256",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Argylle",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1257",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Argylle",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1258",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Argylle",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1259",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Poor Things",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1260",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Poor Things",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1261",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Poor Things",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1262",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Poor Things",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1263",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Iron Claw",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1264",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Iron Claw",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1265",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "The Iron Claw",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1266",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Iron Claw",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1267",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "The Iron Claw",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1268",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Migration",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1269",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Migration",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1270",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Migration",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1271",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Memory",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1272",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Memory",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1273",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Nowhere",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1274",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Nowhere",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1275",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Nowhere",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1276",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Ferrari",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1277",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Ferrari",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1278",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Ferrari",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1279",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Ferrari",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1280",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Ferrari",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1282",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Saltburn",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1283",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Saltburn",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1284",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Saltburn",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1285",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Saltburn",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1286",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Wish",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1287",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Wish",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1288",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Wish",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1289",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Wish",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1290",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "The Color Purple",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1291",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "The Color Purple",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1292",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Blue Beetle",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1293",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Blue Beetle",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1294",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Blue Beetle",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1295",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Blue Beetle",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1296",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Oppenheimer",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1297",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Oppenheimer",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1298",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Oppenheimer",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1299",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Oppenheimer",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1300",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Oppenheimer",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1301",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Barbie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1302",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Barbie",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1303",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Barbie",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1304",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Barbie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1305",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Barbie",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1306",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Napoleon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1307",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Napoleon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1308",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Napoleon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1309",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Elemental",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1310",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Elemental",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1311",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Killers of the Flower Moon",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1312",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Killers of the Flower Moon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1313",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Killers of the Flower Moon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1314",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Killers of the Flower Moon",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1315",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Workout Motivation Music Mix",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1316",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Workout Motivation Music Mix",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1317",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Workout Motivation Music Mix",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1318",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "10-Minute Morning Workout",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1319",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "10-Minute Morning Workout",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1320",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "20 Min Full Body Workout - No Equipment",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1321",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "20 Min Full Body Workout - No Equipment",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1322",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "20 Min Full Body Workout - No Equipment",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1323",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "HIIT Cardio Workout",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1324",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "HIIT Cardio Workout",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1325",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Power Yoga Session",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1326",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Power Yoga Session",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1327",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Workout While Working from Home",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1328",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Workout While Working from Home",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1329",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Mindful Productivity Podcast",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1330",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Mindful Productivity Podcast",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1331",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Brain Boost Workout",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1332",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Brain Boost Workout",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1333",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Brain Boost Workout",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1334",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Brain Boost Workout",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1335",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Brain Boost Workout",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1336",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Workout & Podcast Combo",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1337",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Workout & Podcast Combo",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1338",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Workout & Podcast Combo",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1339",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Workout & Podcast Combo",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1340",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Workout & Podcast Combo",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1341",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Focus Music: Brain Stimulation",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1342",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Focus Music: Brain Stimulation",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1343",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Focus Music: Brain Stimulation",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1344",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Cooking Tips with Gordon Ramsay",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1345",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Cooking Tips with Gordon Ramsay",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1346",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Cooking Tips with Gordon Ramsay",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1347",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Cooking Tips with Gordon Ramsay",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1348",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Lo-fi Cooking Music",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1349",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Lo-fi Cooking Music",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1350",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "30-Minute Meal Prep Music",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1352",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "10-Minute Healthy Meal Prep",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1353",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "10-Minute Healthy Meal Prep",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1354",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "10-Minute Healthy Meal Prep",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1355",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "10-Minute Healthy Meal Prep",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1356",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "10-Minute Healthy Meal Prep",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1357",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Quick & Healthy Breakfasts",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1358",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Quick & Healthy Breakfasts",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1359",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Meal Prep for the Week",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1360",
+    "context": {
+      "mood": "Happy",
+      "intent": "Entertainment",
+      "weather": "Sunny",
+      "time_of_day": "Evening"
+    },
+    "action": "Meal Prep for the Week",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1361",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Meal Prep for the Week",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1362",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Meal Prep for the Week",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1363",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "What to Cook When You\u00e2\u20ac\u2122re Tired",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1364",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "What to Cook When You\u00e2\u20ac\u2122re Tired",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1365",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "What to Cook When You\u00e2\u20ac\u2122re Tired",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1366",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Beginner's Guide to Cooking",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1367",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Beginner's Guide to Cooking",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1368",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Beginner's Guide to Cooking",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1369",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Beginner's Guide to Cooking",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1370",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Beginner's Guide to Cooking",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1371",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Relax & Cook with Jazz",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1372",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Relax & Cook with Jazz",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1373",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Relax & Cook with Jazz",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1374",
+    "context": {
+      "mood": "Sad",
+      "intent": "Entertainment",
+      "weather": "Rainy",
+      "time_of_day": "Night"
+    },
+    "action": "Relax & Cook with Jazz",
+    "reward": 0
+  },
+  {
+    "user_id": "synthetic_1375",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Any",
+      "time_of_day": "Evening",
+      "sub_intent": "Cooking"
+    },
+    "action": "Relax & Cook with Jazz",
+    "reward": 2
+  },
+  {
+    "user_id": "synthetic_1376",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Mindful Cooking Podcast",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1377",
+    "context": {
+      "mood": "Happy",
+      "intent": "Focus",
+      "weather": "Sunny",
+      "time_of_day": "Morning",
+      "sub_intent": "Workout"
+    },
+    "action": "Mindful Cooking Podcast",
+    "reward": 1
+  },
+  {
+    "user_id": "synthetic_1378",
+    "context": {
+      "mood": "Neutral",
+      "intent": "Relaxation",
+      "weather": "Cloudy",
+      "time_of_day": "Afternoon"
+    },
+    "action": "Mindful Cooking Podcast",
+    "reward": 1
+  }
+]

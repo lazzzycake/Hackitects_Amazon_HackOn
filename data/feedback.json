@@ -1,0 +1,3587 @@
+[
+    {
+        "user_id": "synthetic_1001",
+        "movie_title": "Inside Out 2",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1002",
+        "movie_title": "Inside Out 2",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1003",
+        "movie_title": "Inside Out 2",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1004",
+        "movie_title": "Inside Out 2",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1005",
+        "movie_title": "Inside Out 2",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1006",
+        "movie_title": "Furiosa: A Mad Max Saga",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1007",
+        "movie_title": "Furiosa: A Mad Max Saga",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1008",
+        "movie_title": "Furiosa: A Mad Max Saga",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1009",
+        "movie_title": "Furiosa: A Mad Max Saga",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1010",
+        "movie_title": "Deadpool & Wolverine",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1011",
+        "movie_title": "Deadpool & Wolverine",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1012",
+        "movie_title": "Ghostbusters: Frozen Empire",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1013",
+        "movie_title": "Ghostbusters: Frozen Empire",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1014",
+        "movie_title": "Ghostbusters: Frozen Empire",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1015",
+        "movie_title": "Ghostbusters: Frozen Empire",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1016",
+        "movie_title": "Kung Fu Panda 4",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1017",
+        "movie_title": "Kung Fu Panda 4",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1018",
+        "movie_title": "Kung Fu Panda 4",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1019",
+        "movie_title": "Kung Fu Panda 4",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1020",
+        "movie_title": "Godzilla x Kong: The New Empire",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1021",
+        "movie_title": "Godzilla x Kong: The New Empire",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1022",
+        "movie_title": "Godzilla x Kong: The New Empire",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1023",
+        "movie_title": "Kingdom of the Planet of the Apes",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1024",
+        "movie_title": "Kingdom of the Planet of the Apes",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1025",
+        "movie_title": "The Fall Guy",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1026",
+        "movie_title": "The Fall Guy",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1027",
+        "movie_title": "Dune: Part Two",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1028",
+        "movie_title": "Dune: Part Two",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1029",
+        "movie_title": "Dune: Part Two",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1030",
+        "movie_title": "Dune: Part Two",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1031",
+        "movie_title": "Dune: Part Two",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1032",
+        "movie_title": "A Quiet Place: Day One",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1033",
+        "movie_title": "A Quiet Place: Day One",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1034",
+        "movie_title": "Ne Zha 2",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1035",
+        "movie_title": "Ne Zha 2",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1036",
+        "movie_title": "Ne Zha 2",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1037",
+        "movie_title": "Ne Zha 2",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1038",
+        "movie_title": "Ne Zha 2",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1039",
+        "movie_title": "A Minecraft Movie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1040",
+        "movie_title": "A Minecraft Movie",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1041",
+        "movie_title": "Lilo & Stitch (2025)",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1042",
+        "movie_title": "Lilo & Stitch (2025)",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1043",
+        "movie_title": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1044",
+        "movie_title": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1045",
+        "movie_title": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1046",
+        "movie_title": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1047",
+        "movie_title": "Mission: Impossible \u00e2\u20ac\u201c The Final Reckoning",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1048",
+        "movie_title": "Captain America: Brave New World",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1049",
+        "movie_title": "Captain America: Brave New World",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1050",
+        "movie_title": "Captain America: Brave New World",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1051",
+        "movie_title": "Captain America: Brave New World",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1052",
+        "movie_title": "Captain America: Brave New World",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1053",
+        "movie_title": "Thunderbolts",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1054",
+        "movie_title": "Thunderbolts",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1055",
+        "movie_title": "Thunderbolts",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1056",
+        "movie_title": "Thunderbolts",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1057",
+        "movie_title": "Thunderbolts",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1058",
+        "movie_title": "Final Destination: Bloodlines",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1059",
+        "movie_title": "Final Destination: Bloodlines",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1060",
+        "movie_title": "Dog Man",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1061",
+        "movie_title": "Dog Man",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1062",
+        "movie_title": "Sinners",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1063",
+        "movie_title": "Sinners",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1064",
+        "movie_title": "Sinners",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1065",
+        "movie_title": "Sinners",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1066",
+        "movie_title": "Sinners",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1067",
+        "movie_title": "How to Train Your Dragon (2025)",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1068",
+        "movie_title": "How to Train Your Dragon (2025)",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1069",
+        "movie_title": "How to Train Your Dragon (2025)",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1070",
+        "movie_title": "Mufasa: The Lion King",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1071",
+        "movie_title": "Mufasa: The Lion King",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1072",
+        "movie_title": "Mufasa: The Lion King",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1073",
+        "movie_title": "Jurassic World: Rebirth",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1074",
+        "movie_title": "Jurassic World: Rebirth",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1075",
+        "movie_title": "Jurassic World: Rebirth",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1076",
+        "movie_title": "Jurassic World: Rebirth",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1077",
+        "movie_title": "Avatar: Fire and Ash",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1078",
+        "movie_title": "Avatar: Fire and Ash",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1079",
+        "movie_title": "Avatar: Fire and Ash",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1080",
+        "movie_title": "Avatar: Fire and Ash",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1081",
+        "movie_title": "Avatar: Fire and Ash",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1082",
+        "movie_title": "The Fantastic Four: First Steps",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1083",
+        "movie_title": "The Fantastic Four: First Steps",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1084",
+        "movie_title": "Wicked: For Good",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1085",
+        "movie_title": "Wicked: For Good",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1086",
+        "movie_title": "Wicked: For Good",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1087",
+        "movie_title": "Wicked: For Good",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1088",
+        "movie_title": "Deep Cover",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1089",
+        "movie_title": "Deep Cover",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1090",
+        "movie_title": "Deep Cover",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1091",
+        "movie_title": "Deep Cover",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1092",
+        "movie_title": "Deep Cover",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1093",
+        "movie_title": "F1 The Movie",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1094",
+        "movie_title": "F1 The Movie",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1095",
+        "movie_title": "28 Years Later",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1096",
+        "movie_title": "28 Years Later",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1097",
+        "movie_title": "Materialists",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1098",
+        "movie_title": "Materialists",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1099",
+        "movie_title": "Ballerina",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1100",
+        "movie_title": "Ballerina",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1101",
+        "movie_title": "Ballerina",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1102",
+        "movie_title": "The Legend of Ochi",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1103",
+        "movie_title": "The Legend of Ochi",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1104",
+        "movie_title": "The Legend of Ochi",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1105",
+        "movie_title": "The Legend of Ochi",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1106",
+        "movie_title": "The Legend of Ochi",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1107",
+        "movie_title": "The Accountant 2",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1108",
+        "movie_title": "The Accountant 2",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1109",
+        "movie_title": "The Accountant 2",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1110",
+        "movie_title": "The Accountant 2",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1111",
+        "movie_title": "Mickey\u00c2\u00a017",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1112",
+        "movie_title": "Mickey\u00c2\u00a017",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1113",
+        "movie_title": "Mickey\u00c2\u00a017",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1114",
+        "movie_title": "Mickey\u00c2\u00a017",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1115",
+        "movie_title": "Mickey\u00c2\u00a017",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1116",
+        "movie_title": "One Of Them Days",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1117",
+        "movie_title": "One Of Them Days",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1118",
+        "movie_title": "One Of Them Days",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1119",
+        "movie_title": "Predator: Badlands",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1120",
+        "movie_title": "Predator: Badlands",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1121",
+        "movie_title": "Superman Legacy",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1122",
+        "movie_title": "Superman Legacy",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1123",
+        "movie_title": "The Running Man",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1124",
+        "movie_title": "The Running Man",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1125",
+        "movie_title": "The Running Man",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1126",
+        "movie_title": "The Running Man",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1127",
+        "movie_title": "Sly Lives!",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1128",
+        "movie_title": "Sly Lives!",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1129",
+        "movie_title": "Golden",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1130",
+        "movie_title": "Golden",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1131",
+        "movie_title": "Golden",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1132",
+        "movie_title": "Golden",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1133",
+        "movie_title": "Golden",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1134",
+        "movie_title": "Opus",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1135",
+        "movie_title": "Opus",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1136",
+        "movie_title": "Opus",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1137",
+        "movie_title": "Opus",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1138",
+        "movie_title": "Opus",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1139",
+        "movie_title": "Sentimental Value",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1140",
+        "movie_title": "Sentimental Value",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1141",
+        "movie_title": "If I Had Legs I'd Kick You",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1142",
+        "movie_title": "If I Had Legs I'd Kick You",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1143",
+        "movie_title": "If I Had Legs I'd Kick You",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1144",
+        "movie_title": "If I Had Legs I'd Kick You",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1145",
+        "movie_title": "If I Had Legs I'd Kick You",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1146",
+        "movie_title": "The Smashing Machine",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1147",
+        "movie_title": "The Smashing Machine",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1148",
+        "movie_title": "The Smashing Machine",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1149",
+        "movie_title": "The Smashing Machine",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1150",
+        "movie_title": "The Smashing Machine",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1151",
+        "movie_title": "Squid Game: Unleashed",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1152",
+        "movie_title": "Squid Game: Unleashed",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1153",
+        "movie_title": "Squid Game: Unleashed",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1154",
+        "movie_title": "Squid Game: Unleashed",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1155",
+        "movie_title": "Spider-Man: Beyond the Spider-Verse",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1156",
+        "movie_title": "Spider-Man: Beyond the Spider-Verse",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1157",
+        "movie_title": "Madame Web",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1158",
+        "movie_title": "Madame Web",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1159",
+        "movie_title": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1160",
+        "movie_title": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1161",
+        "movie_title": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1162",
+        "movie_title": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1163",
+        "movie_title": "Rebel Moon \u00e2\u20ac\u201c Part Two: The Scargiver",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1164",
+        "movie_title": "Twisters",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1165",
+        "movie_title": "Twisters",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1166",
+        "movie_title": "The Electric State",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1167",
+        "movie_title": "The Electric State",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1168",
+        "movie_title": "The Electric State",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1169",
+        "movie_title": "The Electric State",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1170",
+        "movie_title": "The Watchers",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1171",
+        "movie_title": "The Watchers",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1172",
+        "movie_title": "The Watchers",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1173",
+        "movie_title": "The Watchers",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1174",
+        "movie_title": "Gladiator II",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1175",
+        "movie_title": "Gladiator II",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1176",
+        "movie_title": "Gladiator II",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1177",
+        "movie_title": "Moana 2",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1178",
+        "movie_title": "Moana 2",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1179",
+        "movie_title": "Borderlands",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1180",
+        "movie_title": "Borderlands",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1181",
+        "movie_title": "Borderlands",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1182",
+        "movie_title": "Elio",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1183",
+        "movie_title": "Elio",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1184",
+        "movie_title": "Nosferatu",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1185",
+        "movie_title": "Nosferatu",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1186",
+        "movie_title": "Nosferatu",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1187",
+        "movie_title": "Nosferatu",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1188",
+        "movie_title": "The Garfield Movie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1189",
+        "movie_title": "The Garfield Movie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1190",
+        "movie_title": "The Garfield Movie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1191",
+        "movie_title": "Speak No Evil",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1192",
+        "movie_title": "Speak No Evil",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1193",
+        "movie_title": "Trap",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1194",
+        "movie_title": "Trap",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1195",
+        "movie_title": "Trap",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1196",
+        "movie_title": "Mickey Mouse: The Movie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1197",
+        "movie_title": "Mickey Mouse: The Movie",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1198",
+        "movie_title": "Mickey Mouse: The Movie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1199",
+        "movie_title": "Red One",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1200",
+        "movie_title": "Red One",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1201",
+        "movie_title": "Red One",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1202",
+        "movie_title": "The Strangers: Chapter 1",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1203",
+        "movie_title": "The Strangers: Chapter 1",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1204",
+        "movie_title": "The Strangers: Chapter 1",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1205",
+        "movie_title": "The Strangers: Chapter 1",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1206",
+        "movie_title": "The Strangers: Chapter 1",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1207",
+        "movie_title": "Speak",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1208",
+        "movie_title": "Speak",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1209",
+        "movie_title": "Speak",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1210",
+        "movie_title": "Speak",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1211",
+        "movie_title": "Good Fortune",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1212",
+        "movie_title": "Good Fortune",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1213",
+        "movie_title": "Good Fortune",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1214",
+        "movie_title": "Good Fortune",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1215",
+        "movie_title": "The Ministry of Ungentlemanly Warfare",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1216",
+        "movie_title": "The Ministry of Ungentlemanly Warfare",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1217",
+        "movie_title": "The Ministry of Ungentlemanly Warfare",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1218",
+        "movie_title": "Despicable Me 4",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1219",
+        "movie_title": "Despicable Me 4",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1220",
+        "movie_title": "Kraven the Hunter",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1221",
+        "movie_title": "Kraven the Hunter",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1222",
+        "movie_title": "Kraven the Hunter",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1223",
+        "movie_title": "Kraven the Hunter",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1224",
+        "movie_title": "Baghead",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1225",
+        "movie_title": "Baghead",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1226",
+        "movie_title": "Baghead",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1227",
+        "movie_title": "Harold and the Purple Crayon",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1228",
+        "movie_title": "Harold and the Purple Crayon",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1229",
+        "movie_title": "Harold and the Purple Crayon",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1230",
+        "movie_title": "Harold and the Purple Crayon",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1231",
+        "movie_title": "Terrifier 3",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1232",
+        "movie_title": "Terrifier 3",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1233",
+        "movie_title": "Terrifier 3",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1234",
+        "movie_title": "The Wild Robot",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1235",
+        "movie_title": "The Wild Robot",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1236",
+        "movie_title": "The Wild Robot",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1237",
+        "movie_title": "Firebrand",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1238",
+        "movie_title": "Firebrand",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1239",
+        "movie_title": "Thelma",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1240",
+        "movie_title": "Thelma",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1241",
+        "movie_title": "Thelma",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1242",
+        "movie_title": "Thelma",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1243",
+        "movie_title": "Thelma",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1244",
+        "movie_title": "Robot Dreams",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1245",
+        "movie_title": "Robot Dreams",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1246",
+        "movie_title": "Robot Dreams",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1247",
+        "movie_title": "Robot Dreams",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1248",
+        "movie_title": "Robot Dreams",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1249",
+        "movie_title": "Past Lives",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1250",
+        "movie_title": "Past Lives",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1251",
+        "movie_title": "The Tiger\u00e2\u20ac\u2122s Apprentice",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1252",
+        "movie_title": "The Tiger\u00e2\u20ac\u2122s Apprentice",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1253",
+        "movie_title": "The Beekeeper",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1254",
+        "movie_title": "The Beekeeper",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1255",
+        "movie_title": "The Beekeeper",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1256",
+        "movie_title": "Argylle",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1257",
+        "movie_title": "Argylle",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1258",
+        "movie_title": "Argylle",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1259",
+        "movie_title": "Poor Things",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1260",
+        "movie_title": "Poor Things",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1261",
+        "movie_title": "Poor Things",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1262",
+        "movie_title": "Poor Things",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1263",
+        "movie_title": "The Iron Claw",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1264",
+        "movie_title": "The Iron Claw",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1265",
+        "movie_title": "The Iron Claw",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1266",
+        "movie_title": "The Iron Claw",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1267",
+        "movie_title": "The Iron Claw",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1268",
+        "movie_title": "Migration",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1269",
+        "movie_title": "Migration",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1270",
+        "movie_title": "Migration",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1271",
+        "movie_title": "Memory",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1272",
+        "movie_title": "Memory",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1273",
+        "movie_title": "Nowhere",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1274",
+        "movie_title": "Nowhere",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1275",
+        "movie_title": "Nowhere",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1276",
+        "movie_title": "Ferrari",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1277",
+        "movie_title": "Ferrari",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1278",
+        "movie_title": "Ferrari",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1279",
+        "movie_title": "Ferrari",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1280",
+        "movie_title": "Ferrari",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1281",
+        "movie_title": "Saltburn",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1282",
+        "movie_title": "Saltburn",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1283",
+        "movie_title": "Saltburn",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1284",
+        "movie_title": "Saltburn",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1285",
+        "movie_title": "Saltburn",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1286",
+        "movie_title": "Wish",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1287",
+        "movie_title": "Wish",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1288",
+        "movie_title": "Wish",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1289",
+        "movie_title": "Wish",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1290",
+        "movie_title": "The Color Purple",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1291",
+        "movie_title": "The Color Purple",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1292",
+        "movie_title": "Blue Beetle",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1293",
+        "movie_title": "Blue Beetle",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1294",
+        "movie_title": "Blue Beetle",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1295",
+        "movie_title": "Blue Beetle",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1296",
+        "movie_title": "Oppenheimer",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1297",
+        "movie_title": "Oppenheimer",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1298",
+        "movie_title": "Oppenheimer",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1299",
+        "movie_title": "Oppenheimer",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1300",
+        "movie_title": "Oppenheimer",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1301",
+        "movie_title": "Barbie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1302",
+        "movie_title": "Barbie",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1303",
+        "movie_title": "Barbie",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1304",
+        "movie_title": "Barbie",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1305",
+        "movie_title": "Barbie",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1306",
+        "movie_title": "Napoleon",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1307",
+        "movie_title": "Napoleon",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1308",
+        "movie_title": "Napoleon",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1309",
+        "movie_title": "Elemental",
+        "reward": 2,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1310",
+        "movie_title": "Elemental",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1311",
+        "movie_title": "Killers of the Flower Moon",
+        "reward": 2,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1312",
+        "movie_title": "Killers of the Flower Moon",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1313",
+        "movie_title": "Killers of the Flower Moon",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1314",
+        "movie_title": "Killers of the Flower Moon",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1315",
+        "movie_title": "Workout Motivation Music Mix",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1316",
+        "movie_title": "Workout Motivation Music Mix",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1317",
+        "movie_title": "Workout Motivation Music Mix",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1318",
+        "movie_title": "10-Minute Morning Workout",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1319",
+        "movie_title": "10-Minute Morning Workout",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1320",
+        "movie_title": "20 Min Full Body Workout - No Equipment",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1321",
+        "movie_title": "20 Min Full Body Workout - No Equipment",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1322",
+        "movie_title": "20 Min Full Body Workout - No Equipment",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1323",
+        "movie_title": "HIIT Cardio Workout",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1324",
+        "movie_title": "HIIT Cardio Workout",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1325",
+        "movie_title": "Power Yoga Session",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1326",
+        "movie_title": "Power Yoga Session",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1327",
+        "movie_title": "Workout While Working from Home",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1328",
+        "movie_title": "Workout While Working from Home",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1329",
+        "movie_title": "Mindful Productivity Podcast",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1330",
+        "movie_title": "Mindful Productivity Podcast",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1331",
+        "movie_title": "Brain Boost Workout",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1332",
+        "movie_title": "Brain Boost Workout",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1333",
+        "movie_title": "Brain Boost Workout",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1334",
+        "movie_title": "Brain Boost Workout",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1335",
+        "movie_title": "Brain Boost Workout",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1336",
+        "movie_title": "Workout & Podcast Combo",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1337",
+        "movie_title": "Workout & Podcast Combo",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1338",
+        "movie_title": "Workout & Podcast Combo",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1339",
+        "movie_title": "Workout & Podcast Combo",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1340",
+        "movie_title": "Workout & Podcast Combo",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1341",
+        "movie_title": "Focus Music: Brain Stimulation",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1342",
+        "movie_title": "Focus Music: Brain Stimulation",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1343",
+        "movie_title": "Focus Music: Brain Stimulation",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1344",
+        "movie_title": "Cooking Tips with Gordon Ramsay",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1345",
+        "movie_title": "Cooking Tips with Gordon Ramsay",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1346",
+        "movie_title": "Cooking Tips with Gordon Ramsay",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1347",
+        "movie_title": "Cooking Tips with Gordon Ramsay",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1348",
+        "movie_title": "Lo-fi Cooking Music",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1349",
+        "movie_title": "Lo-fi Cooking Music",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1350",
+        "movie_title": "30-Minute Meal Prep Music",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1351",
+        "movie_title": "30-Minute Meal Prep Music",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1352",
+        "movie_title": "10-Minute Healthy Meal Prep",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1353",
+        "movie_title": "10-Minute Healthy Meal Prep",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1354",
+        "movie_title": "10-Minute Healthy Meal Prep",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1355",
+        "movie_title": "10-Minute Healthy Meal Prep",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1356",
+        "movie_title": "10-Minute Healthy Meal Prep",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1357",
+        "movie_title": "Quick & Healthy Breakfasts",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1358",
+        "movie_title": "Quick & Healthy Breakfasts",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1359",
+        "movie_title": "Meal Prep for the Week",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1360",
+        "movie_title": "Meal Prep for the Week",
+        "reward": 0,
+        "mood": "Happy",
+        "intent": "Entertainment",
+        "weather": "Sunny",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1361",
+        "movie_title": "Meal Prep for the Week",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1362",
+        "movie_title": "Meal Prep for the Week",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1363",
+        "movie_title": "What to Cook When You\u00e2\u20ac\u2122re Tired",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1364",
+        "movie_title": "What to Cook When You\u00e2\u20ac\u2122re Tired",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1365",
+        "movie_title": "What to Cook When You\u00e2\u20ac\u2122re Tired",
+        "reward": 1,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1366",
+        "movie_title": "Beginner's Guide to Cooking",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1367",
+        "movie_title": "Beginner's Guide to Cooking",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1368",
+        "movie_title": "Beginner's Guide to Cooking",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1369",
+        "movie_title": "Beginner's Guide to Cooking",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1370",
+        "movie_title": "Beginner's Guide to Cooking",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1371",
+        "movie_title": "Relax & Cook with Jazz",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1372",
+        "movie_title": "Relax & Cook with Jazz",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1373",
+        "movie_title": "Relax & Cook with Jazz",
+        "reward": 0,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1374",
+        "movie_title": "Relax & Cook with Jazz",
+        "reward": 0,
+        "mood": "Sad",
+        "intent": "Entertainment",
+        "weather": "Rainy",
+        "timeOfDay": "Night"
+    },
+    {
+        "user_id": "synthetic_1375",
+        "movie_title": "Relax & Cook with Jazz",
+        "reward": 2,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Cooking",
+        "weather": "Any",
+        "timeOfDay": "Evening"
+    },
+    {
+        "user_id": "synthetic_1376",
+        "movie_title": "Mindful Cooking Podcast",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "synthetic_1377",
+        "movie_title": "Mindful Cooking Podcast",
+        "reward": 1,
+        "mood": "Happy",
+        "intent": "Focus",
+        "sub_intent": "Workout",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    },
+    {
+        "user_id": "synthetic_1378",
+        "movie_title": "Mindful Cooking Podcast",
+        "reward": 1,
+        "mood": "Neutral",
+        "intent": "Relaxation",
+        "weather": "Cloudy",
+        "timeOfDay": "Afternoon"
+    },
+    {
+        "user_id": "test_user_1",
+        "context_key": "Happy|Entertainment||Sunny|Morning",
+        "movie_title": "barbie",
+        "reward": 5,
+        "context": {
+            "mood": "Happy",
+            "intent": "Entertainment",
+            "weather": "Sunny",
+            "time_of_day": "Morning"
+        }
+    },
+    {
+        "user_id": "test_user_1",
+        "context_key": "Sad|Contemplation||Rainy|Evening",
+        "movie_title": "Sinners",
+        "reward": 3,
+        "context": {
+            "mood": "Sad",
+            "intent": "Contemplation",
+            "weather": "Rainy",
+            "time_of_day": "Evening"
+        }
+    },
+    {
+        "user_id": "user_10000",
+        "context_key": "Positive|Entertainment||Sunny|Afternoon",
+        "movie_title": "Superman Legacy",
+        "reward": 1,
+        "context": {
+            "intent": "Entertainment",
+            "mood": "Positive",
+            "time_of_day": "Afternoon",
+            "weather": "Sunny"
+        }
+    }
+]
