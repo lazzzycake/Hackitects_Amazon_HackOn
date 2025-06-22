@@ -1,0 +1,38 @@
+.speech-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.speech-popup-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  text-align: center;
+  color: black;
+  max-width: 300px;
+}
+
+.mic-icon {
+  font-size: 2rem;
+  color: #ff4d00;
+  margin-bottom: 1rem;
+}
+
+.speech-popup-content button {
+  background-color: #ff4d00;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  color: white;
+  font-weight: bold;
+  border-radius: 12px;
+  margin-top: 1rem;
+  cursor: pointer;
+}

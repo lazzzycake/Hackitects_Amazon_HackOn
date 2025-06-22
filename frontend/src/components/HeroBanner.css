@@ -1,0 +1,249 @@
+:root {
+  --accent-orange: #ff4d00;
+}
+
+.hero-section {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  color: white;
+  z-index: 100; /* Elevate the entire hero section */
+}
+
+.hero-background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  z-index: -1; /* This is the key: it places the image behind all other content */
+}
+
+.hero-overlay {
+  position: absolute;
+  bottom: 100px; /* Adjust to provide space above the nav bar */
+  left: 50px;
+  background: rgba(0,0,0,0.3);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.hero-overlay-content {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px; /* Constrain the text block width */
+}
+
+.hero-content-area {
+  position: absolute;
+  bottom: 20px;
+  right: 40px;
+  left: auto;
+  transform: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  background: none;
+}
+
+.hero-title {
+  font-size: 3.5em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+}
+
+.hero-buttons {
+  background: rgba(30, 30, 30, 0.85);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.18);
+  padding: 24px 32px 20px 32px;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.hero-buttons .watch-now {
+  background: none;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  box-shadow: none;
+  margin-bottom: 0;
+  cursor: pointer;
+  transition: text-decoration 0.2s;
+  text-align: left;
+}
+
+.hero-buttons .watch-now:hover, .hero-buttons .watch-now:focus {
+  text-decoration: underline;
+  background: none;
+  color: #fff;
+  transform: none;
+}
+
+.hero-buttons .learn-more {
+  background: #444;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 18px;
+  font-size: 0.98rem;
+  font-weight: 400;
+  opacity: 0.92;
+  margin-top: 6px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.hero-buttons .learn-more:hover, .hero-buttons .learn-more:focus {
+  background: #555;
+  color: #fff;
+}
+
+/* Overlay at the bottom */
+.hero-overlay {
+  background: rgba(49, 47, 47, 0.377);
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.hero-overlay button {
+  background-color: #444;         /* dark grey background */
+  color: white;                   /* white text */
+  border: none;
+  padding: 0.4rem 1rem;
+  font-size: 0.9rem;
+  border-radius: 999px;           /* rounded pill shape */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 0.5rem;
+}
+
+.hero-overlay button:hover {
+  background-color: #555;
+}
+
+/* Top-right icon container */
+.top-right-buttons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 12px;
+  z-index: 10;
+}
+
+/* Circle-styled icon buttons */
+.circle-icon {
+  height: 45px; /* Increased size for clarity */
+  width: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  transition: transform 0.2s ease;
+}
+
+.circle-icon:hover {
+  transform: scale(1.05);
+}
+
+.top-right-icons {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  display: flex;
+  gap: 15px;
+  z-index: 10;
+}
+
+.icon-circle {
+  width: 45px;
+  height: 45px;
+  background-color: rgba(70, 70, 70, 0.8); /* Match button's dark transparent background */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* Match button's border */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; /* Ensure icon inside is white */
+  cursor: pointer;
+  transition: background-color 0.2s;
+  backdrop-filter: blur(5px);
+}
+
+.icon-circle:hover {
+  background-color: rgba(85, 85, 85, 0.9); /* Slightly brighter on hover */
+}
+
+/* Hero Banner Carousel Arrows */
+.hero-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.35);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 30;
+  transition: background 0.2s, transform 0.2s;
+  outline: none;
+  opacity: 0.95;
+}
+.hero-arrow.left {
+  left: 24px;
+}
+.hero-arrow.right {
+  right: 24px;
+}
+.hero-arrow:hover, .hero-arrow:focus {
+  background: rgba(0,0,0,0.55);
+  transform: translateY(-50%) scale(1.08);
+}
+.hero-arrow:active {
+  background: rgba(0,0,0,0.7);
+  transform: translateY(-50%) scale(1.02);
+}
+.hero-arrow:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 1px;
+}
+
+.hero-pagination-dots {
+  position: absolute;
+  left: 50%;
+  bottom: 32px;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+  z-index: 40;
+}
+.hero-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.4);
+  transition: background 0.2s, width 0.2s, height 0.2s;
+}
+.hero-dot.active {
+  background: #fff;
+  width: 14px;
+  height: 14px;
+}

@@ -1,0 +1,218 @@
+:root {
+  --accent-orange: #ff4d00;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+/* Header */
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.dashboard-logo {
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.dashboard-title {
+  color: var(--accent-orange);
+  font-size: 1.75rem;
+  text-align: center;
+  flex: 1;
+  margin-left: -40px;
+}
+
+.user-icon {
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+/* Stats */
+.stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.stat-box {
+  background-color: #1a1a1a;
+  padding: 15px;
+  border-radius: 12px;
+  flex: 1;
+  text-align: center;
+  min-width: 200px;
+}
+
+.stat-box p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.stat-box span {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 8px;
+  color: var(--accent-orange);
+  display: block;
+}
+
+/* Split Layout */
+.split-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+/* Left Column */
+.left-column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 20px;
+  min-width: 300px;
+  max-width: 40%;
+}
+
+.section-box {
+  background-color: #1a1a1a;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.section-box h2 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: white;
+}
+
+/* Genre Graph */
+.genre {
+  margin-bottom: 20px;
+}
+
+.genre-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95rem;
+  margin-bottom: 6px;
+  color: #ddd;
+}
+
+.bar-container {
+  background-color: #333;
+  border-radius: 20px;
+  height: 12px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.bar {
+  height: 100%;
+  border-radius: 20px;
+  transition: width 1s ease-in-out;
+}
+
+/* Right Side */
+.right-split-wrapper {
+  flex: 2;
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 300px;
+}
+
+/* Top Movies + Top Shows */
+.top-media-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.top-media-section .section {
+  flex: 1;
+  background-color: #1a1a1a;
+  padding: 20px;
+  border-radius: 15px;
+  min-width: 250px;
+}
+
+/* Shared Section Style */
+.right-split-wrapper .section {
+  background-color: #1a1a1a;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.right-split-wrapper h3 {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.right-split-wrapper .list {
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 0;
+}
+
+.orange-text {
+  color: var(--accent-orange);
+}
+
+.desc {
+  font-size: 0.95rem;
+  color: #ddd;
+  line-height: 1.5;
+}
+@media (max-width: 768px) {
+  .dashboard-header {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .dashboard-title {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .stats {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .split-section {
+    flex-direction: column;
+  }
+
+  .top-media-section {
+    flex-direction: column;
+  }
+
+  .section-box,
+  .right-split-wrapper,
+  .top-media-section .section {
+    width: 100%;
+  }
+}

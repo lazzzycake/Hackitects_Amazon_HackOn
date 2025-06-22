@@ -1,0 +1,186 @@
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.popup-card {
+  width: 400px;
+  height: 280px;
+  background-color: #f8f1e6;
+  color: #111;
+  border-radius: 32px;
+  padding: 2rem;
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Fire TV logo */
+.logo-circle {
+  position: absolute;
+  top: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border-radius: 50%;
+  padding: 8px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.logo-circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.popup-content {
+  margin-top: 60px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.popup-header {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+.popup-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.popup-buttons button,
+.popup-footer button {
+  background-color: #ff4d00;
+  color: black;
+  border: none;
+  padding: 0.8rem 1.4rem;
+  border-radius: 18px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+  max-width: 100%;
+  white-space: normal;
+}
+
+.popup-buttons button:hover,
+.popup-footer button:hover {
+  transform: scale(1.05);
+}
+
+/* Footer for mic icon and button */
+.popup-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.popup-footer .mic {
+  font-size: 1.5rem;
+}
+
+/* 🔴 Mic Listening Popup */
+.listening-popup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.listening-popup .mic-icon {
+  font-size: 3rem;
+  color: #ff4d00;
+  margin-bottom: 1rem;
+}
+
+.listening-popup p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.listening-popup button {
+  background-color: #ff4d00;
+  color: black;
+  border: none;
+  padding: 0.6rem 1.4rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.listening-popup button:hover {
+  background-color: #e94800;
+}
+
+/* Responsive Layout */
+@media (max-width: 600px) {
+  .popup-card {
+    width: 90vw;
+    height: auto;
+    padding: 1.5rem;
+  }
+
+  .popup-header {
+    font-size: 1.2rem;
+  }
+
+  .popup-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .popup-buttons button,
+  .popup-footer button {
+    width: 100%;
+    font-size: 0.95rem;
+    padding: 0.6rem 1rem;
+  }
+
+  .popup-footer {
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: 1rem;
+  }
+
+  .logo-circle {
+    width: 80px;
+    height: 80px;
+    top: -45px;
+  }
+
+  .listening-popup .mic-icon {
+    font-size: 2.4rem;
+  }
+
+  .listening-popup p {
+    font-size: 1rem;
+  }
+}

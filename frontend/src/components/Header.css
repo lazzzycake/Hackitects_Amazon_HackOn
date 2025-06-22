@@ -1,0 +1,28 @@
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: #141414;
+  color: #fff;
+  border-bottom: 1px solid #222;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo-icon {
+  color: #e50914;
+  font-size: 2.2rem;
+}
+
+.logo-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+} 

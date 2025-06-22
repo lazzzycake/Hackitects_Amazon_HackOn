@@ -1,0 +1,124 @@
+.watch-party {
+  background: #0c0c0c;
+  color: white;
+  height: 100vh;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.watch-party-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.watch-party-logo {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.watch-party-user {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.watch-party-content {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.title {
+  color: #ff4d00;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: white;
+}
+
+.desc {
+  font-size: 1rem;
+  color: #ccc;
+  margin-top: 0.3rem;
+  margin-bottom: 2rem;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.button-row a {
+  text-decoration: none;
+}
+
+.button-row button {
+  padding: 0.8rem 1.5rem;
+  background: transparent;
+  color: #ff4d00;
+  border: 2px solid #ff4d00;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  transition: background 0.2s;
+}
+
+.button-row button:hover {
+  background: #ff4d00;
+  color: black;
+}
+
+.join-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.join-input {
+  padding: 1rem;
+  width: 300px;
+  border: 2px solid #ff4d00;
+  background: transparent;
+  color: white;
+  border-radius: 10px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.join-section button {
+  padding: 1rem 1.5rem;
+  background: transparent;
+  color: #ff4d00;
+  border: 2px solid #ff4d00;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  transition: background 0.2s;
+}
+
+.join-section button:hover {
+  background: #ff4d00;
+  color: black;
+}
